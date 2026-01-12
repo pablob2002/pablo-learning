@@ -1,0 +1,14 @@
+
+=== MODEL PERFORMANCE SUMMARY ===
+Final Model: XGBoost_tuned
+Validation Accuracy: 0.8226
+Training Accuracy: 0.8535
+Overfitting Gap: 0.0309
+
+Features Used: 30
+Training Samples (after SMOTE): 10432
+Original Training Samples: 10116
+
+Predictions:
+- True: 1424 (49.89%)
+- False: 1430 (50.11%)
